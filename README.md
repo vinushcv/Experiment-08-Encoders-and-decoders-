@@ -65,6 +65,7 @@ Program for Endocers and Decoders  and verify its truth table in quartus using V
 Developed by: vinush.cv  
 RegisterNumber:  22001897
 */
+
 ENCODER
 ```
 module enc(d0,d1,d2,d3,d4,d5,d6,d7,a,b,c);
