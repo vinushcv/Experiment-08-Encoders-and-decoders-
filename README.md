@@ -98,9 +98,11 @@ endmodule
 ### RTL LOGIC  
 
 ENCODER
+
 ![image](https://user-images.githubusercontent.com/113975318/214775828-0ec9dc57-f1c8-4b2f-872d-e2a26e6ae27f.png)
 
 DECODER
+
 ![image](https://user-images.githubusercontent.com/113975318/214775928-11729f2b-51be-4a5a-b668-20ddb8dbfabb.png)
 
 
@@ -110,9 +112,11 @@ DECODER
 ### TIMING DIGRAMS 
 
 ENCODER
+
 ![image](https://user-images.githubusercontent.com/113975318/214776000-7428734a-6927-4aa9-8aa1-43f705b1aec5.png)
 
 DECODER
+
 ![image](https://user-images.githubusercontent.com/113975318/214776028-833321c0-8a75-43c2-b622-0c46753bb38a.png)
 
 
@@ -121,10 +125,12 @@ DECODER
 ### TRUTH TABLE 
 
 ENCODER
+
 ![image](https://user-images.githubusercontent.com/113975318/214776067-ad2a11fe-ab0c-4ad4-9aae-6f401a55a4ab.png)
 
 
 DECODER
+
 ![image](https://user-images.githubusercontent.com/113975318/214776097-a1fbb463-3f82-462f-85dc-71ec8fe37371.png)
 
 
